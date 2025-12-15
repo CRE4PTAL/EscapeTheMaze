@@ -48,7 +48,7 @@ Podczas tworzenia gry skupiłem się na responsywności i mechanikach "Game Feel
 
 ## 💻 Uruchomienie projektu
 
-1. Pobierz archiwum **"EscapeTheMaze_Build.zip"**.
-2. Rozpakuj folder w dowolnym miejscu na dysku.
-3. Uruchom plik **EscapeTheMaze.exe**.
-4. Wszelkie skrypty znajdują się w folderze "Scripts"
+1. Wejdź w zakładkę Releases (po prawej stronie ekranu)
+2. Kliknij "Escape The Maze - Playable Build"
+3. Pobierz ZIP'a i go rozpakuj
+4. Uruchom Labirynt.exe
